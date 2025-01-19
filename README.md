@@ -1,6 +1,6 @@
 <h1>Hi, My name is Michael Musoke!<a href="https://www.linkedin.com/in/michael-musoke/">Cybersecurity Enthusiast</a></h1>
 
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+<h2>👨‍💻 Cybersecurity Projects and Achivements</h2>
 
 - <b>Digital Forensics Practice (Junior Digital Analyst Report)</b>
   - [Network Investigation Using Wireshark](https://github.com/Muts256/Digital-Forensics)
