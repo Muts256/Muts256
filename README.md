@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Digital Forensics Practice (Junior Digital Analyst Report)</b>
-  - [Network Investigation Using Wireshark](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Network Investigation Using Wireshark](https://github.com/Muts256/Digital-Forensics)
 - <b>SIEM Installation and Configurations (Wazuh installation, File Integrity Management (FIM))</b>
   - [Wazuh Installation and FIM Configuration](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) 
 - <b>Investigate Suspicious PDF</b>
