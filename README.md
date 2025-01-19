@@ -1,4 +1,4 @@
-<h1>Hi, I'm Michael!<a href="https://www.linkedin.com/in/michael-musoke/">Cybersecurity Enthusiast</a></h1>
+<h1>Hi, My name is Michael Musoke!<a href="https://www.linkedin.com/in/michael-musoke/">Cybersecurity Enthusiast</a></h1>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
