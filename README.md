@@ -5,9 +5,9 @@
 - <b>Digital Forensics Practice (Junior Digital Analyst Report)</b>
   - [Network Investigation Using Wireshark](https://github.com/Muts256/Digital-Forensics)
 - <b>SIEM Installation and Configurations (Wazuh installation, File Integrity Management (FIM))</b>
-  - [Wazuh Installation and FIM Configuration](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) 
+  - [Wazuh Installation and FIM Configuration](https://github.com/Muts256/SIEM) 
 - <b>Investigate Suspicious PDF</b>
-  - [REMnux to investigate suspicius USB](https://github.com/joshmadakor1/Sentinel-Lab)
+  - [REMnux to investigate suspicious USB](https://github.com/Muts256/Suspicious-PDF)
 - <b>Certifications</b>
   - [Certifications To-date](https://www.credly.com/users/michael-musoke)
   - [Blue Team Completion Certifications](https://github.com/Muts256/Blue-Team-Certs)
