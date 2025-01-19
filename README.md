@@ -9,12 +9,12 @@
 - <b>Investigate Suspicious PDF</b>
   - [REMnux to investigate suspicius USB](https://github.com/joshmadakor1/Sentinel-Lab)
 - <b>Certifications</b>
-  - [Certifications To-date](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [Blue Team Completion Certifications](https://github.com/joshmadakor1/Sentinel-Lab)
+  - [Certifications To-date](https://www.credly.com/users/michael-musoke)
+  - [Blue Team Completion Certifications]()
 - <b>Completed BlueTeam Labs/Challenges Badges</b>
-  - [Report Challenge](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [Phishing Email](https://blueteamlabs.online/achievement/share/challenge/48999/10)
-  - [Malware Analysis](https://github.com/joshmadakor1/Sentinel-Lab)
+  - [Report Challenge]()
+  - [Phishing Email]()
+  - [Malware Analysis]()
   
 
 
