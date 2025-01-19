@@ -10,7 +10,7 @@
   - [REMnux to investigate suspicius USB](https://github.com/joshmadakor1/Sentinel-Lab)
 - <b>Certifications</b>
   - [Certifications To-date](https://www.credly.com/users/michael-musoke)
-  - [Blue Team Completion Certifications]()
+  - [Blue Team Completion Certifications](https://github.com/Muts256/Blue-Team-Certs)
 - <b>Completed BlueTeam Labs/Challenges Badges</b>
   - [Report Challenge]()
   - [Phishing Email]()
