@@ -5,7 +5,9 @@
 - <b>Digital Forensics Practice (Junior Digital Analyst Report)</b>
   - [Network Investigation Using Wireshark](https://github.com/Muts256/Digital-Forensics)
 - <b>SIEM Installation and Configurations (Wazuh installation, File Integrity Management (FIM))</b>
-  - [Wazuh Installation and FIM Configuration](https://github.com/Muts256/SIEM) 
+  - [Wazuh Installation and FIM Configuration](https://github.com/Muts256/SIEM)
+- <b>Intrusion Detection System (Snort and Splunk installation)</b>
+  - [Snort & Splunk Installation and Configuration](https://github.com/Muts256/IDS)
 - <b>Investigate Suspicious PDF</b>
   - [REMnux to investigate suspicious USB](https://github.com/Muts256/Suspicious-PDF)
 - <b>Certifications</b>
