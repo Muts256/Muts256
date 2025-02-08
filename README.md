@@ -2,9 +2,8 @@
 
 <h2>👨‍💻 Phishing Email Analysis</h2>
 
-- <b> Email Analysis Investigation</b>
-  - [Phishing Email](https://github.com/Muts256/Email-Analysis)
-
+<b> Digital Forensic Report (Junior Digital Analyst)</b>
+  - [Report](https://github.com/Muts256/Digital-Forensics)
 
 
 
