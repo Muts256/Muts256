@@ -4,7 +4,7 @@
 - <b>Digital Forensics Report(Junior Digital Analyst Report)</b>
   - [Report](https://github.com/Muts256/Digital-Forensics)
 - <b>SIEM Installation and File Integrity Management Configuration Project</b>
-  - [Wazuh Installation and File Integrity Management Configuration](https://https://github.com/Muts256/SIEM)
+  - [Wazuh Installation and File Integrity Management Configuration](https://github.com/Muts256/SIEM))
   - [Brute-Force Attack on Active Directory](https://github.com/Muts256/Active-Directory-Attack)
 - <b>Intrusion Detection System (IDS)</b>
   - [Intrusion Detection System (Snort & Splunk Installation/Configuration)](https://github.com/Muts256/IDS)
