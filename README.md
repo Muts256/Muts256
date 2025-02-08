@@ -8,6 +8,9 @@
   - [REMnux PDF Investigation](https://github.com/Muts256/Suspicious-PDF)
 - <b>Certifications To-date</b>
   - [Certifications](https://github.com/Muts256/Certifications)
+- <b>Blue Team Certifications of Completion</b>
+  - [Blue Team Junior Analyst Certs](https://github.com/Muts256/Blue-Team-Certs)
+
 
 
 <h2> 🤳 Connect with me:</h2>
