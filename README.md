@@ -1,23 +1,10 @@
-<h1>Hi, My name is Michael Musoke!<a href="https://www.linkedin.com/in/michael-musoke/"> A Cybersecurity Enthusiast</a></h1>
+ <h1>Hi, I'm Michael! <br/><a href="https://www.linkedin.com/in/michael-musoke/">Cybersecurity Enthusiast</a></h1>
 
-<h2>👨‍💻 Cybersecurity Projects and Achivements</h2>
+<h2>👨‍💻 Phishing Email Analysis</h2>
 
-- <b>Digital Forensics Practice (Junior Digital Analyst Report)</b>
-  - [Network Investigation Using Wireshark](https://github.com/Muts256/Digital-Forensics)
-- <b>SIEM Installation and Configurations (Wazuh installation, File Integrity Management (FIM))</b>
-  - [Wazuh Installation and FIM Configuration](https://github.com/Muts256/SIEM)
-- <b>Intrusion Detection System (Snort and Splunk installation)</b>
-  - [Snort & Splunk Installation and Configuration](https://github.com/Muts256/IDS)
-- <b>Investigate Suspicious PDF</b>
-  - [REMnux to investigate suspicious USB](https://github.com/Muts256/Suspicious-PDF)
-- <b>Certifications</b>
-  - [Certifications To-date](https://www.credly.com/users/michael-musoke)
-  - [Blue Team Completion Certifications](https://github.com/Muts256/Blue-Team-Certs)
-- <b>Completed BlueTeam Labs/Challenges Badges</b>
-  - [Report Challenge]()
-  - [Phishing Email]()
-  - [Malware Analysis]()
-  
+- <b> Email Analysis Investigation</b>
+  - [Phishing Email](https://github.com/Muts256/Digital-Forensics)
+
 
 
 
