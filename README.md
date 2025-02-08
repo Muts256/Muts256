@@ -3,7 +3,7 @@
 <h2>👨‍💻 Phishing Email Analysis</h2>
 
 - <b> Email Analysis Investigation</b>
-  - [Phishing Email](https://github.com/Muts256/Digital-Forensics)
+  - [Phishing Email](https://github.com/Muts256/Email-Analysis)
 
 
 
