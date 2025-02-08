@@ -1,8 +1,6 @@
  <h1>Hi, I'm Michael! <br/><a href="https://www.linkedin.com/in/michael-musoke/">Cybersecurity Enthusiast</a></h1>
 
-<h2>👨‍💻 Phishing Email Analysis</h2>
-
-<b> Digital Forensic Report (Junior Digital Analyst)</b>
+- <b>Digital Forensics Report(Junior Digital Analyst Report)</b>
   - [Report](https://github.com/Muts256/Digital-Forensics)
 
 
