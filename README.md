@@ -4,7 +4,8 @@
   - [Report](https://github.com/Muts256/Digital-Forensics)
 - <b>SIEM Installation and File Integrity Management Configuration Project</b>
   - [Wazuh Installation and File Integrity Management Configuration](https://https://github.com/Muts256/SIEM)
-
+- <b>Investigate Suspicious PDF Project:</b>
+  - [REMnux PDF Investigation](https://github.com/Muts256/Suspicious-PDF)
 
 
 <h2> 🤳 Connect with me:</h2>
