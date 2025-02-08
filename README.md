@@ -8,6 +8,8 @@
   - [Intrusion Detection System (Snort & Splunk Installation/Configuration)](https://github.com/Muts256/IDS)
 - <b>Investigate Suspicious PDF Project:</b>
   - [REMnux PDF Investigation](https://github.com/Muts256/Suspicious-PDF)
+- <b>Phishing Email Analysis</b>
+  - [Invesigating Suspicious Emails](https://github.com/Muts256/Email-Analysis)
 - <b>Certifications To-date</b>
   - [Certifications](https://github.com/Muts256/Certifications)
 - <b>Blue Team Certifications of Completion</b>
