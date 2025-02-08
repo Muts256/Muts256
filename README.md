@@ -2,6 +2,8 @@
 
 - <b>Digital Forensics Report(Junior Digital Analyst Report)</b>
   - [Report](https://github.com/Muts256/Digital-Forensics)
+- <b>SIEM Installation and File Integrity Management Configuration Project</b>
+  - [Wazuh Installation and File Integrity Management Configuration](https://https://github.com/Muts256/SIEM)
 
 
 
