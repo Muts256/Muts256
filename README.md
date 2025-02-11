@@ -5,7 +5,7 @@
   - [Report](https://github.com/Muts256/Digital-Forensics)
 - <b>SIEM Installation and Configuration Project/s</b>
   - [Wazuh Installation and File Integrity Management Configuration](https://github.com/Muts256/SIEM_Wazuh)
-  - [Brute-Force Attack on Active Directory](https://github.com/Muts256/Active-Directory-Attack)
+  - [Active Directory Monitoring Using Sysmon and Splunk](https://github.com/Muts256/Active-Directory-Attack)
 - <b>Intrusion Detection System (IDS)</b>
   - [Intrusion Detection System (Snort & Splunk Installation/Configuration)](https://github.com/Muts256/IDS)
 - <b>Investigate Suspicious PDF Project:</b>
