@@ -1,4 +1,4 @@
- <h1>Hi, I'm Michael Musoke! <br/><a href="https://www.linkedin.com/in/michael-musoke/">Cybersecurity Enthusiast</a></h1>
+ <h1>Hi, I'm Michael Musoke! <br/><a href="https://www.linkedin.com/in/michael-musoke/">Cybersecurity Professional</a></h1>
 <h2>👨‍💻 Cybersecurity Projects & Investigations</h2>
 
 - <b>Digital Forensics Report(Junior Digital Analyst Report)</b>
