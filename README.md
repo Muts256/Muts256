@@ -9,7 +9,7 @@
   - [Active Directory Monitoring Using Sysmon and Splunk](https://github.com/Muts256/Active-Directory-Attack)
 - <b>Intrusion Detection System (IDS)</b>
   - [Intrusion Detection System (Snort & Splunk Installation/Configuration)](https://github.com/Muts256/IDS)
-- <b>Investigate Suspicious PDF Project:</b>
+- <b>Digital-Forensic-And-Malware-Analysis</b>
   - [REMnux PDF Investigation](https://github.com/Muts256/Suspicious-PDF)
 - <b>Phishing Email Analysis</b>
   - [Invesigating Suspicious Emails](https://github.com/Muts256/Email-Analysis)
