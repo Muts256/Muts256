@@ -1,7 +1,7 @@
  <h1>Hi, I'm Michael Musoke! <br/><a href="https://www.linkedin.com/in/michael-musoke/">Cybersecurity Professional</a></h1>
 <h2>👨‍💻 Cybersecurity Projects & Investigations</h2>
 
-- <b>Digital Forensics Report(Junior Digital Analyst Report)</b>
+- <b>Digital Forensics Reports/Investigations</b>
   - [Report](https://github.com/Muts256/Digital-Forensics)
   - [Investigation](https://github.com/Muts256/Security_Onion-Investigation)
 - <b>SIEM Installation and Configuration Project/s</b>
