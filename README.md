@@ -11,6 +11,7 @@
   - [Intrusion Detection System (Snort & Splunk Installation/Configuration)](https://github.com/Muts256/IDS)
 - <b>Digital-Forensic-And-Malware-Analysis</b>
   - [REMnux PDF Investigation](https://github.com/Muts256/Suspicious-PDF)
+  - [Malware investigation](https://github.com/Muts256/Malware-Analysis)
 - <b>Phishing Email Analysis</b>
   - [Investigating Suspicious Emails](https://github.com/Muts256/Email-Analysis)
 - <b>Certifications To-date</b>
