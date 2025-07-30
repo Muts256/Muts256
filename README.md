@@ -2,7 +2,6 @@
 <h2>👨‍💻 Cybersecurity Projects & Investigations</h2>
 
 - <b>Digital Forensics Reports/Investigations</b>
-  - [Report](https://github.com/Muts256/Digital-Forensics)
   - [Investigation](https://github.com/Muts256/Security_Onion-Investigation)
 - <b>SIEM Installation and Configuration Project/s</b>
   - [Wazuh Installation and File Integrity Management Configuration](https://github.com/Muts256/SIEM_Wazuh)
