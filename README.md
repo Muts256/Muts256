@@ -15,6 +15,8 @@
   - [Malware investigation](https://github.com/Muts256/Malware-Analysis)
 - <b>Phishing Email Analysis</b>
   - [Investigating Suspicious Emails](https://github.com/Muts256/Email-Analysis)
+- <b>Cloud Labs</b>
+  - [Azure Firewall]
 - <b>Certifications To-date</b>
   - [Certifications](https://github.com/Muts256/Certifications)
 - <b>Blue Team Certifications of Completion</b>
