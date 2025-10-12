@@ -3,7 +3,7 @@
 
 - <b>Digital Forensics Reports/Investigations</b>
   - [Investigation](https://github.com/Muts256/Security_Onion-Investigation)
-- <b>Sentinel Configuration & Investigations</b>
+- <b>Sentinel Configuration, Investigations & KQL Labs</b>
   - [Sentinel](https://github.com/Muts256/Sentinel)
 - <b>SIEM Installation and Configuration Project/s</b>
   - [Wazuh Installation and File Integrity Management Configuration](https://github.com/Muts256/SIEM_Wazuh)
