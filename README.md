@@ -2,7 +2,7 @@
 <h2>👨‍💻 Cybersecurity Projects & Investigations</h2>
 
 - <b>Digital Forensics Reports/Investigations</b>
-  - [Investigation](https://github.com/Muts256/Security_Onion-Investigation)
+  - [Investigation PCAP](https://github.com/Muts256/Security_Onion-Investigation)
 - <b>Sentinel Configuration, Investigations & KQL Labs</b>
   - [Sentinel](https://github.com/Muts256/Sentinel)
   - [KQL Investigation](https://github.com/Muts256/Valdorian-Scandal)
