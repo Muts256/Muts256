@@ -1,6 +1,8 @@
  <h1>Hi, I'm Michael Musoke! <br/><a href="https://www.linkedin.com/in/michael-musoke/">Cybersecurity Professional</a></h1>
 <h2>👨‍💻 Cybersecurity Projects & Investigations</h2>
 
+- <b>Threat Hunting</b>
+  - [TOR Usage threat hunt](https://github.com/Muts256/Security_Onion-Investigation)
 - <b>Digital Forensics Reports/Investigations</b>
   - [Investigation PCAP](https://github.com/Muts256/Security_Onion-Investigation)
 - <b>Sentinel Configuration, Investigations & KQL Labs</b>
