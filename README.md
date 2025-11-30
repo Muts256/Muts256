@@ -4,6 +4,7 @@
 - <b>Threat Hunting</b>
   - [TOR Usage threat hunt](https://github.com/Muts256/TOR-Usage-Threat-Hunt)
 - <b>Vulnerability Management</b>
+  - [Process](https://github.com/Muts256/Vulnerability-Management-Process)
   - [Tenable](https://github.com/Muts256/Vulnerability-Management)
 - <b>Digital Forensics Reports/Investigations</b>
   - [Investigation PCAP](https://github.com/Muts256/Security_Onion-Investigation)
