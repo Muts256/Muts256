@@ -2,7 +2,7 @@
 <h2>👨‍💻 Cybersecurity Projects & Investigations</h2>
 
 - <b>Threat Hunting</b>
-  - [TOR Usage threat hunt](https://github.com/Muts256/Security_Onion-Investigation)
+  - [TOR Usage threat hunt](https://github.com/Muts256/TOR-Usage-Threat-Hunt)
 - <b>Digital Forensics Reports/Investigations</b>
   - [Investigation PCAP](https://github.com/Muts256/Security_Onion-Investigation)
 - <b>Sentinel Configuration, Investigations & KQL Labs</b>
