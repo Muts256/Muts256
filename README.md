@@ -6,7 +6,7 @@
   - [Threat Hunting Tasks](https://github.com/Muts256/Threat-Hunt)
 - <b>Vulnerability Management</b>
   - [Program Implementation and Scanning](https://github.com/Muts256/Vulnerability-Management-Process)
-  - [Tenable Installation](https://github.com/Muts256/Vulnerability-Management)
+  - [Tenable Installation and Configuration](https://github.com/Muts256/Vulnerability-Management)
 - <b>Digital Forensics Reports/Investigations</b>
   - [Investigation of a PCAP](https://github.com/Muts256/Security_Onion-Investigation)
 - <b>Sentinel Configuration, Investigations & KQL Labs</b>
