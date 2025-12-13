@@ -3,6 +3,7 @@
 
 - <b>Threat Hunting</b>
   - [TOR Usage threat hunt](https://github.com/Muts256/TOR-Usage-Threat-Hunt)
+  - [Threat Hunting Tasks](https://github.com/Muts256/Threat-Hunt)
 - <b>Vulnerability Management</b>
   - [Program Implementation and Scanning](https://github.com/Muts256/Vulnerability-Management-Process)
   - [Tenable Installation](https://github.com/Muts256/Vulnerability-Management)
