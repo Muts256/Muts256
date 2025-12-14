@@ -7,7 +7,7 @@
 - <b>Vulnerability Management</b>
   - [Program Implementation and Scanning](https://github.com/Muts256/Vulnerability-Management-Process)
   - [Tenable Installation and Configuration](https://github.com/Muts256/Vulnerability-Management)
-  - [STIGs](https://github.com/Muts256/STIGs)
+  - [Security Technical Implementation Guides-STIGs](https://github.com/Muts256/STIGs)
 - <b>Digital Forensics Reports/Investigations</b>
   - [Investigation of a PCAP](https://github.com/Muts256/Security_Onion-Investigation)
 - <b>Sentinel Configuration, Investigations & KQL Labs</b>
