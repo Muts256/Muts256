@@ -4,6 +4,8 @@
 - <b>Threat Hunting</b>
   - [TOR Usage threat hunt](https://github.com/Muts256/TOR-Usage-Threat-Hunt)
   - [Threat Hunting Tasks](https://github.com/Muts256/Threat-Hunt)
+- <b>Incidence Response</b>
+  - [Brute Force Detection](https://github.com/Muts256/Incidence-Response/blob/main/Brute-Force-Attempt-Detection.md)
 - <b>Vulnerability Management</b>
   - [Program Implementation and Scanning](https://github.com/Muts256/Vulnerability-Management-Process)
   - [Tenable Installation and Configuration](https://github.com/Muts256/Vulnerability-Management)
