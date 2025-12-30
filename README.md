@@ -15,6 +15,7 @@
 - <b>Sentinel Configuration, Investigations & KQL Labs</b>
   - [Sentinel](https://github.com/Muts256/Sentinel)
   - [KQL Investigation](https://github.com/Muts256/Valdorian-Scandal)
+  - [Map Visualisation in Sentinel](https://github.com/Muts256/Visualisation-In-Sentinel)
 - <b>SIEM Installation and Configuration Project/s</b>
   - [Wazuh Installation and File Integrity Management Configuration](https://github.com/Muts256/SIEM_Wazuh)
   - [Active Directory Monitoring Using Sysmon and Splunk](https://github.com/Muts256/Active-Directory-Attack)
