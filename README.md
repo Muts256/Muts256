@@ -13,7 +13,7 @@
 - <b>Digital Forensics Reports/Investigations</b>
   - [Investigation of a PCAP](https://github.com/Muts256/Security_Onion-Investigation)
 - <b>Sentinel Configuration, Investigations & KQL Labs</b>
-  - [Sentinel](https://github.com/Muts256/Sentinel)
+  - [Sentinel- SOC and Honeypot in Azure](https://github.com/Muts256/Sentinel)
   - [KQL Investigation](https://github.com/Muts256/Valdorian-Scandal)
   - [Map Visualisation in Sentinel](https://github.com/Muts256/Visualisation-In-Sentinel)
 - <b>SIEM Installation and Configuration Project/s</b>
