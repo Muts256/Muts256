@@ -1,7 +1,7 @@
- <h1>Hi, I'm Michael Musoke! <br/><a href="https://www.linkedin.com/in/michael-musoke/">Cybersecurity Professional</a></h1>
-<h2>👨‍💻 Cybersecurity Projects & Investigations</h2>
+<h1>Hi, I'm Michael Musoke! <br/><a href="https://www.linkedin.com/in/michael-musoke/">Cybersecurity Professional</a></h1>
+<h3>👨‍💻 Cybersecurity Projects & Investigations</h3>
 
-- <b>Threat Hunting</b>
+- #### 1. Threat Hunting
   - [TOR Usage threat hunt](https://github.com/Muts256/TOR-Usage-Threat-Hunt)
   - [Threat Hunting Tasks](https://github.com/Muts256/Threat-Hunt)
 - <b>Incident Response</b>
