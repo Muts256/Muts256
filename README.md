@@ -23,7 +23,7 @@ Technologies used include Sentinel, Microsoft Defender for Endpoint, Wazuh, Secu
   - [Security Technical Implementation Guides-STIGs](https://github.com/Muts256/STIGs)
 
 - #### 3. Incident Response.
-  *Incident response is the structured approach to detecting, containing, eradicating, and recovering from security incidents while minimizing operational and business impact.*
+  *Incident response is the structured approach to detecting, containing, eradicating, and recovering from security incidents while minimizing operational and business impact, following the NIST 800-61 guidelines*
   - [Incident Response Workflows](https://github.com/Muts256/Incident-Response)
 
 
