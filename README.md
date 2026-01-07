@@ -5,22 +5,38 @@
 Hands-on security projects focused on threat detection, incident analysis, cloud security, and defensive engineering.  
 These projects demonstrate practical experience with real-world security tools, frameworks, and methodologies.
 
+Technologies used include: Sentinel, MDE, Wazuh, Security Onion, Splunk, REMnux, Azure VMs, KQL, SQL, Tenable
+
 ---
+
+### Key Projects
+
 - #### 1. Threat Hunting
   - [TOR Usage threat hunt](https://github.com/Muts256/TOR-Usage-Threat-Hunt)
   - [Threat Hunting Tasks](https://github.com/Muts256/Threat-Hunt)
-- <b>Incident Response</b>
-  - [Incident Response Workflows](https://github.com/Muts256/Incident-Response)
-- <b>Vulnerability Management</b>
+      
+- #### 2. Vulnerability Management
   - [Program Implementation and Scanning](https://github.com/Muts256/Vulnerability-Management-Process)
   - [Tenable Installation and Configuration](https://github.com/Muts256/Vulnerability-Management)
   - [Security Technical Implementation Guides-STIGs](https://github.com/Muts256/STIGs)
-- <b>Digital Forensics Reports/Investigations</b>
-  - [Investigation of a PCAP](https://github.com/Muts256/Security_Onion-Investigation)
-- <b>Sentinel Configuration, Investigations & KQL Labs</b>
+
+- #### 3. Incident Response
+  - [Incident Response Workflows](https://github.com/Muts256/Incident-Response)
+
+
+- #### 4. Sentinel Configuration, Investigations & KQL Labs
   - [Sentinel- SOC and Honeypot in Azure](https://github.com/Muts256/Sentinel)
   - [KQL Investigation](https://github.com/Muts256/Valdorian-Scandal)
   - [Map Visualisation in Sentinel](https://github.com/Muts256/Visualisation-In-Sentinel)
+
+---
+
+### Additional Projects
+
+- <b>Digital Forensics Reports/Investigations</b>
+  - [Investigation of a PCAP](https://github.com/Muts256/Security_Onion-Investigation)
+
+
 - <b>SIEM Installation and Configuration Project/s</b>
   - [Wazuh Installation and File Integrity Management Configuration](https://github.com/Muts256/SIEM_Wazuh)
   - [Active Directory Monitoring Using Sysmon and Splunk](https://github.com/Muts256/Active-Directory-Attack)
