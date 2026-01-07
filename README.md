@@ -50,11 +50,23 @@ Technologies used include Sentinel, Microsoft Defender for Endpoint, Wazuh, Secu
   - [Malware investigation](https://github.com/Muts256/Malware-Analysis)
 - <b>Phishing Email Analysis</b>
   - [Investigating Suspicious Emails](https://github.com/Muts256/Email-Analysis)
+
+
+### Upcoming Projects
+
 - <b>Cloud Labs</b>
   - [Azure Firewall. In the editing stage]
-- <b>Certifications To-date</b>
+
+- ### Certifications
+
+  ![CISSP](https://img.shields.io/badge/CISSP-0052CC?logo=isc2&logoColor=white)
+  ![CEH](https://img.shields.io/badge/CEH-000000?logo=hackthebox&logoColor=red)
+  ![SC-200](https://img.shields.io/badge/SC--200-0078D4?logo=microsoft&logoColor=white)
+  ![AZ-900](https://img.shields.io/badge/AZ--900-0089D6?logo=microsoft-azure&logoColor=white)
+  ![CTIAP](https://img.shields.io/badge/CTIAP-4B0082?logo=target&logoColor=white)
+  ![Blue_Team_Junior_Analyst](https://img.shields.io/badge/Blue%20Team%20Junior%20Analyst-0A3D62?logo=security&logoColor=white)
+
   - [Certifications](https://github.com/Muts256/Certifications)
-- <b>Blue Team Certifications of Completion</b>
   - [Blue Team Junior Analyst Certs](https://github.com/Muts256/Blue-Team-Certs)
 
 
