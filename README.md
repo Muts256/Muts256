@@ -66,10 +66,12 @@ Technologies used include Sentinel, Microsoft Defender for Endpoint, Wazuh, Secu
   ![CTIAP](https://img.shields.io/badge/CTIAP-4B0082?logo=target&logoColor=white)
   ![Blue_Team_Junior_Analyst](https://img.shields.io/badge/Blue%20Team%20Junior%20Analyst-0A3D62?logo=security&logoColor=white)
 
+  *****CTIAP = Certified Threat Intelligence Analyst Practitioner (arcX)*****
   - [Certifications](https://github.com/Muts256/Certifications)
   - [Blue Team Junior Analyst Certs](https://github.com/Muts256/Blue-Team-Certs)
 
 
+  *“The art of war teaches us to rely not on the likelihood of the enemy’s not coming, but on our own readiness to receive him; not on the chance of his not attacking, but on the fact that we have made our position unassailable.”* -The Art of War Sun Tzu
 
 <h2> 🤳 Connect with me:</h2>
 
