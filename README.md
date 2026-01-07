@@ -1,6 +1,11 @@
 <h1>Hi, I'm Michael Musoke! <br/><a href="https://www.linkedin.com/in/michael-musoke/">Cybersecurity Professional</a></h1>
-<h3>👨‍💻 Cybersecurity Projects & Investigations</h3>
 
+### 👨‍💻 Cybersecurity Projects & Investigations
+
+Hands-on security projects focused on threat detection, incident analysis, cloud security, and defensive engineering.  
+These projects demonstrate practical experience with real-world security tools, frameworks, and methodologies.
+
+---
 - #### 1. Threat Hunting
   - [TOR Usage threat hunt](https://github.com/Muts256/TOR-Usage-Threat-Hunt)
   - [Threat Hunting Tasks](https://github.com/Muts256/Threat-Hunt)
