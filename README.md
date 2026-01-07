@@ -1,6 +1,6 @@
 <h1>Hi, I'm Michael Musoke! <br/><a href="https://www.linkedin.com/in/michael-musoke/">Cybersecurity Professional</a></h1>
 
-### 👨‍💻 Cybersecurity Projects & Investigations
+### 👨‍💻 Cybersecurity Projects & Investigations.
 
 Hands-on security projects focused on threat detection, incident analysis, cloud security, and defensive engineering.  
 These projects demonstrate practical experience with real-world security tools, frameworks, and methodologies.
@@ -9,25 +9,25 @@ Technologies used include Sentinel, Microsoft Defender for Endpoint, Wazuh, Secu
 
 ---
 
-### Key Projects
+### Key Projects.
 
 - #### 1. Threat Hunting.
   *Threat hunting is a proactive security practice that involves searching for hidden or unknown threats within an environment using hypotheses, telemetry, and adversary behavior analysis.*
   - [TOR Usage threat hunt](https://github.com/Muts256/TOR-Usage-Threat-Hunt)
   - [Threat Hunting Tasks](https://github.com/Muts256/Threat-Hunt)
       
-- #### 2. Vulnerability Management
+- #### 2. Vulnerability Management.
   *Vulnerability management is the continuous process of identifying, assessing, prioritizing, and remediating security weaknesses to reduce an organization’s attack surface.*
   - [Program Implementation and Scanning](https://github.com/Muts256/Vulnerability-Management-Process)
   - [Tenable Installation and Configuration](https://github.com/Muts256/Vulnerability-Management)
   - [Security Technical Implementation Guides-STIGs](https://github.com/Muts256/STIGs)
 
-- #### 3. Incident Response
+- #### 3. Incident Response.
   *Incident response is the structured approach to detecting, containing, eradicating, and recovering from security incidents while minimizing operational and business impact.*
   - [Incident Response Workflows](https://github.com/Muts256/Incident-Response)
 
 
-- #### 4. Sentinel Configuration, Investigations & KQL Labs
+- #### 4. Sentinel Configuration, Investigations & KQL Labs.
   - [Sentinel- SOC and Honeypot in Azure](https://github.com/Muts256/Sentinel)
   - [KQL Investigation](https://github.com/Muts256/Valdorian-Scandal)
   - [Map Visualisation in Sentinel](https://github.com/Muts256/Visualisation-In-Sentinel)
@@ -52,12 +52,12 @@ Technologies used include Sentinel, Microsoft Defender for Endpoint, Wazuh, Secu
   - [Investigating Suspicious Emails](https://github.com/Muts256/Email-Analysis)
 
 
-### Upcoming Projects
+### Upcoming Projects.
 
 - <b>Cloud Labs</b>
   - [Azure Firewall. In the editing stage]
 
-- ### Certifications
+- ### Certifications.
 
   ![CISSP](https://img.shields.io/badge/CISSP-0052CC?logo=isc2&logoColor=white)
   ![CEH](https://img.shields.io/badge/CEH-000000?logo=hackthebox&logoColor=red)
