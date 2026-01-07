@@ -5,22 +5,25 @@
 Hands-on security projects focused on threat detection, incident analysis, cloud security, and defensive engineering.  
 These projects demonstrate practical experience with real-world security tools, frameworks, and methodologies.
 
-Technologies used include: Sentinel, MDE, Wazuh, Security Onion, Splunk, REMnux, Azure VMs, KQL, SQL, Tenable
+Technologies used include Sentinel, Microsoft Defender for Endpoint, Wazuh, Security Onion, Splunk, REMnux, Azure VMs, KQL, SQL, and Tenable, among others.
 
 ---
 
 ### Key Projects
 
-- #### 1. Threat Hunting
+- #### 1. Threat Hunting.
+  *Threat hunting is a proactive security practice that involves searching for hidden or unknown threats within an environment using hypotheses, telemetry, and adversary behavior analysis.*
   - [TOR Usage threat hunt](https://github.com/Muts256/TOR-Usage-Threat-Hunt)
   - [Threat Hunting Tasks](https://github.com/Muts256/Threat-Hunt)
       
 - #### 2. Vulnerability Management
+  *Vulnerability management is the continuous process of identifying, assessing, prioritizing, and remediating security weaknesses to reduce an organization’s attack surface.*
   - [Program Implementation and Scanning](https://github.com/Muts256/Vulnerability-Management-Process)
   - [Tenable Installation and Configuration](https://github.com/Muts256/Vulnerability-Management)
   - [Security Technical Implementation Guides-STIGs](https://github.com/Muts256/STIGs)
 
 - #### 3. Incident Response
+  *Incident response is the structured approach to detecting, containing, eradicating, and recovering from security incidents while minimizing operational and business impact.*
   - [Incident Response Workflows](https://github.com/Muts256/Incident-Response)
 
 
