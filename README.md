@@ -17,13 +17,13 @@ Technologies used include Sentinel, Microsoft Defender for Endpoint, Wazuh, Secu
   - [Threat Hunting Tasks](https://github.com/Muts256/Threat-Hunt)
       
 - #### 2. Vulnerability Management.
-  *Vulnerability management is the continuous process of identifying, assessing, prioritizing, and remediating security weaknesses to reduce an organization’s attack surface.*
+  *Vulnerability management is the continuous process of identifying, assessing, prioritising, and remediating security weaknesses to reduce an organisation’s attack surface.*
   - [Program Implementation and Scanning](https://github.com/Muts256/Vulnerability-Management-Process)
   - [Tenable Installation and Configuration](https://github.com/Muts256/Vulnerability-Management)
   - [Security Technical Implementation Guides-STIGs](https://github.com/Muts256/STIGs)
 
 - #### 3. Incident Response.
-  *Incident response is the structured approach to detecting, containing, eradicating, and recovering from security incidents while minimizing operational and business impact, following the NIST 800-61 guidelines.*
+  *Incident response is the structured approach to detecting, containing, eradicating, and recovering from security incidents while minimising operational and business impact, following the NIST 800-61 guidelines.*
   - [Incident Response Workflows](https://github.com/Muts256/Incident-Response)
 
 
