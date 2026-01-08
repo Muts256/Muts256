@@ -31,6 +31,7 @@ Technologies used include Sentinel, Microsoft Defender for Endpoint, Wazuh, Secu
   - [Sentinel- SOC and Honeypot in Azure](https://github.com/Muts256/Sentinel)
   - [KQL Investigation](https://github.com/Muts256/Valdorian-Scandal)
   - [Map Visualisation in Sentinel](https://github.com/Muts256/Visualisation-In-Sentinel)
+  - [Sentinel-Automation Rule](https://github.com/Muts256/Sentinel-Automation)
 
 ---
 
