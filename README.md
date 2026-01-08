@@ -58,6 +58,8 @@ Technologies used include Sentinel, Microsoft Defender for Endpoint, Wazuh, Secu
 - <b>Cloud Labs</b>
   - [Azure Firewall. In the editing stage]
 
+---
+
 - ### Certifications.
 
   ![CISSP](https://img.shields.io/badge/CISSP-0052CC?logo=isc2&logoColor=white)
