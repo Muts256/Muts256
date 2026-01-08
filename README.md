@@ -51,6 +51,7 @@ Technologies used include Sentinel, Microsoft Defender for Endpoint, Wazuh, Secu
 - <b>Phishing Email Analysis</b>
   - [Investigating Suspicious Emails](https://github.com/Muts256/Email-Analysis)
 
+---
 
 ### Upcoming Projects.
 
