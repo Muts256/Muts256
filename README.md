@@ -31,7 +31,7 @@ Technologies used include Sentinel, Microsoft Defender for Endpoint, Wazuh, Secu
   *Microsoft Sentinel is a cloud-native SIEM and SOAR platform that collects, correlates, and analyzes security data across an organization to detect threats and automate incident response.*
   - [Sentinel- SOC and Honeypot in Azure](https://github.com/Muts256/Sentinel)
   - [Sentinel-Automation Rule](https://github.com/Muts256/Sentinel-Automation)
-  - [KQL Investigation](https://github.com/Muts256/Valdorian-Scandal)
+  - [KQL Investigation](https://github.com/Muts256/Valdorian-Scandal/blob/main/Valdorian%20Times%20Investigation.pdf)
   - [Map Visualisation in Sentinel](https://github.com/Muts256/Visualisation-In-Sentinel)
   
 
