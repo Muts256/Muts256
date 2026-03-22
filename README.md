@@ -79,7 +79,7 @@ Technologies used include Sentinel, Microsoft Defender for Endpoint, Wazuh, Secu
 
 
 
-  *“The art of war teaches us to rely not on the likelihood of the enemy’s not coming, but on our own readiness to receive him; not on the chance of his not attacking, but on the fact that we have made our position unassailable.”* - The Art of War Sun Tzu
+  
 
 <h2> 🤳 Connect with me:</h2>
 
