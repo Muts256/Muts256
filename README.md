@@ -25,6 +25,7 @@ Technologies used include Sentinel, Microsoft Defender for Endpoint, Wazuh, Secu
 - #### 3. Incident Response.
   *Incident response is the structured approach to detecting, containing, eradicating, and recovering from security incidents while minimising operational and business impact, following the NIST 800-61 guidelines.*
   - [Incident Response Workflows](https://github.com/Muts256/Incident-Response)
+  - [Alert Investigations](https://github.com/Muts256/Scenarios)
 
 
 - #### 4. Sentinel Configuration, Investigations & KQL.
