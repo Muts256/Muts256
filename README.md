@@ -2,10 +2,13 @@
 
 ### 👨‍💻 Cybersecurity Projects & Investigations.
 
-Hands-on security projects focused on threat detection, incident analysis, cloud security, and defensive engineering.  
-These projects demonstrate practical experience with real-world security tools, frameworks, and methodologies.
+Hands-on cybersecurity projects simulating real-world SOC operations, covering threat detection, incident response, and cloud security investigations.
 
-Technologies used include Sentinel, Microsoft Defender for Endpoint, Wazuh, Security Onion, Splunk, REMnux, Azure VMs, KQL, SQL, and Tenable, among others.
+Investigated security events by correlating endpoint, network, and SIEM data to identify malicious activity, validate alerts, and reconstruct attack timelines.
+
+Developed detection queries and performed threat hunting using Microsoft Sentinel, Splunk, and Wazuh, integrating telemetry from Microsoft Defender for Endpoint.
+
+Applied MITRE ATT&CK techniques to map adversary behaviour and produce actionable, SOC-ready reports.
 
 ---
 
