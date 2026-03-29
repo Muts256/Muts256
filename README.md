@@ -65,6 +65,9 @@ Applied MITRE ATT&CK techniques to map adversary behaviour and produce actionabl
 - <b>Cloud Labs</b>
   - [Azure Firewall. In the editing stage]
 
+- <b>AI Automation</b>
+  - [AI Driven Threat Detector. In the editing stage]
+    
 ---
 
 - ### Certifications.
