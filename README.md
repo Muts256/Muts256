@@ -1,6 +1,13 @@
-<h1>Hi, I'm Michael Musoke! <br/><a href="https://www.linkedin.com/in/michael-musoke/"> Cybersecurity Professional</a></h1>
+
+<br clear='left' />
+
+<h1>Hi, I'm Michael Musoke! <br/><a href="https://www.linkedin.com/in/michael-musoke/"> Cybersecurity Analyst</a></h1>
+
+
 
 ### 👨‍💻 Cybersecurity Projects & Investigations.
+
+
 
 Hands-on cybersecurity projects simulating real-world SOC operations, covering threat detection, incident response, and cloud security investigations.
 
