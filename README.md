@@ -1,8 +1,4 @@
-
-<br clear='left' />
-
 <h1>Hi, I'm Michael Musoke! <br/><a href="https://www.linkedin.com/in/michael-musoke/"> Cybersecurity Analyst</a></h1>
-
 
 
 ### 👨‍💻 Cybersecurity Projects & Investigations.
@@ -22,24 +18,24 @@ Applied MITRE ATT&CK techniques to map adversary behaviour and produce actionabl
 ### Key Projects.
 
 - #### 1. Threat Hunting.
-  *Threat hunting is a proactive security practice that involves searching for hidden or unknown threats within an environment using hypotheses, telemetry, and adversary behavior analysis.*
+  *Threat hunting: The proactive security practice that involves searching for hidden or unknown threats within an environment using hypotheses, telemetry, and adversary behavior analysis.*
   - [TOR Usage threat hunt](https://github.com/Muts256/TOR-Usage-Threat-Hunt)
   - [Threat Hunting Tasks](https://github.com/Muts256/Threat-Hunt)
       
 - #### 2. Vulnerability Management.
-  *Vulnerability management is the continuous process of identifying, assessing, prioritising, and remediating security weaknesses to reduce an organisation’s attack surface.*
+  *Vulnerability management: A continuous process of identifying, assessing, prioritising, and remediating security weaknesses to reduce an organisation’s attack surface.*
   - [Program Implementation and Scanning](https://github.com/Muts256/Vulnerability-Management-Process)
   - [Tenable Installation and Configuration](https://github.com/Muts256/Vulnerability-Management)
   - [Security Technical Implementation Guides-STIGs](https://github.com/Muts256/STIGs)
 
 - #### 3. Incident Response.
-  *Incident response is the structured approach to detecting, containing, eradicating, and recovering from security incidents while minimising operational and business impact, following the NIST 800-61 guidelines.*
+  *Incident response: The structured approach to detecting, containing, eradicating, and recovering from security incidents while minimising operational and business impact, following the NIST 800-61 guidelines.*
   - [Incident Response Workflows](https://github.com/Muts256/Incident-Response)
   - [Alert Investigations](https://github.com/Muts256/Scenarios)
 
 
 - #### 4. Sentinel Configuration, Investigations & KQL.
-  *Microsoft Sentinel is a cloud-native SIEM and SOAR platform that collects, correlates, and analyzes security data across an organization to detect threats and automate incident response.*
+  *Microsoft Sentinel: A cloud-native SIEM and SOAR platform that collects, correlates, and analyzes security data across an organization to detect threats and automate incident response.*
   - [Sentinel- SOC and Honeypot in Azure](https://github.com/Muts256/Sentinel)
   - [Sentinel-Automation Rule](https://github.com/Muts256/Sentinel-Automation)
   - [KQL Investigation](https://github.com/Muts256/Valdorian-Scandal/blob/main/Valdorian%20Times%20Investigation.pdf)
