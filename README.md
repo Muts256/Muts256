@@ -3,9 +3,9 @@
 
 ### 👨‍💻 Cybersecurity Projects & Investigations.
 
+With a Linux background and transitioning into security, I use projects to bridge the gap between infrastructure and security operations. 
 
-
-Hands-on cybersecurity projects simulating real-world SOC operations, covering threat detection, incident response, and cloud security investigations.
+Building SOC scenarios and hands-on cybersecurity projects simulating real-world SOC operations, covering threat detection, incident response, cloud security investigations, and automation.
 
 Investigated security events by correlating endpoint, network, and SIEM data to identify malicious activity, validate alerts, and reconstruct attack timelines.
 
