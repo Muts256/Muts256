@@ -17,7 +17,7 @@ Applied MITRE ATT&CK techniques to map adversary behaviour and produce actionabl
 
 ### Key Projects.
 
-- #### 1. Sentinel Configuration, Investigations & KQL.
+- #### 1. SIEMs Installation & Configuration, Investigations & KQL.
   *Microsoft Sentinel: A cloud-native SIEM and SOAR platform that collects, correlates, and analyzes security data across an organization to detect threats and automate incident response.*
   - [Sentinel- SOC and Honeypot in Azure](https://github.com/Muts256/Sentinel)
   - [Sentinel-Automation Rule](https://github.com/Muts256/Sentinel-Automation)
