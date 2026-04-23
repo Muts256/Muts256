@@ -17,11 +17,14 @@ Applied MITRE ATT&CK techniques to map adversary behaviour and produce actionabl
 
 ### Key Projects.
 
-- #### 1. Threat Hunting.
-  *Threat hunting: The proactive security practice that involves searching for hidden or unknown threats within an environment using hypotheses, telemetry, and adversary behavior analysis.*
-  - [TOR Usage threat hunt](https://github.com/Muts256/TOR-Usage-Threat-Hunt)
-  - [Threat Hunting Tasks](https://github.com/Muts256/Threat-Hunt)
-      
+- #### 1. Sentinel Configuration, Investigations & KQL.
+  *Microsoft Sentinel: A cloud-native SIEM and SOAR platform that collects, correlates, and analyzes security data across an organization to detect threats and automate incident response.*
+  - [Sentinel- SOC and Honeypot in Azure](https://github.com/Muts256/Sentinel)
+  - [Sentinel-Automation Rule](https://github.com/Muts256/Sentinel-Automation)
+  - [KQL Investigation](https://github.com/Muts256/Valdorian-Scandal/blob/main/Valdorian%20Times%20Investigation.pdf)
+  - [Map Visualisation in Sentinel](https://github.com/Muts256/Visualisation-In-Sentinel)
+  
+
 - #### 2. Vulnerability Management.
   *Vulnerability management: A continuous process of identifying, assessing, prioritising, and remediating security weaknesses to reduce an organisation’s attack surface.*
   - [Program Implementation and Scanning](https://github.com/Muts256/Vulnerability-Management-Process)
@@ -34,13 +37,11 @@ Applied MITRE ATT&CK techniques to map adversary behaviour and produce actionabl
   - [Alert Investigations](https://github.com/Muts256/Scenarios)
 
 
-- #### 4. Sentinel Configuration, Investigations & KQL.
-  *Microsoft Sentinel: A cloud-native SIEM and SOAR platform that collects, correlates, and analyzes security data across an organization to detect threats and automate incident response.*
-  - [Sentinel- SOC and Honeypot in Azure](https://github.com/Muts256/Sentinel)
-  - [Sentinel-Automation Rule](https://github.com/Muts256/Sentinel-Automation)
-  - [KQL Investigation](https://github.com/Muts256/Valdorian-Scandal/blob/main/Valdorian%20Times%20Investigation.pdf)
-  - [Map Visualisation in Sentinel](https://github.com/Muts256/Visualisation-In-Sentinel)
-  
+- #### 4. Threat Hunting.
+  *Threat hunting: The proactive security practice that involves searching for hidden or unknown threats within an environment using hypotheses, telemetry, and adversary behavior analysis.*
+  - [TOR Usage threat hunt](https://github.com/Muts256/TOR-Usage-Threat-Hunt)
+  - [Threat Hunting Tasks](https://github.com/Muts256/Threat-Hunt)
+      
 
 ---
 
