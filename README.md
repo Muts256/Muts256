@@ -3,15 +3,15 @@
 
 ### 👨‍💻 Cybersecurity Projects & Investigations.
 
-With a Linux background and transitioning into security, I use projects to bridge the gap between infrastructure and security operations. 
+With a Linux background, focussing on transitioning into cybersecurity through hands-on lab environments that simulate SOC and security operations.
 
-Building SOC scenarios and hands-on cybersecurity projects simulating real-world SOC operations, covering threat detection, incident response, cloud security investigations, and automation.
+Security scenarios are designed to develop practical skills in log analysis, threat detection, and incident investigation across endpoint and network data sources.
 
-Investigated security events by correlating endpoint, network, and SIEM data to identify malicious activity, validate alerts, and reconstruct attack timelines.
+Using tools such as Microsoft Sentinel, Splunk, and Wazuh, security telemetry is analysed to identify brute-force activity, authentication anomalies, and suspicious behaviour in simulated environments.
 
-Developed detection queries and performed threat hunting using Microsoft Sentinel, Splunk, and Wazuh, integrating telemetry from Microsoft Defender for Endpoint.
+Detection queries are developed, and threat-hunting exercises are performed using structured log data, with event correlation used to understand potential attack patterns.
 
-Applied MITRE ATT&CK techniques to map adversary behaviour and produce actionable, SOC-ready reports.
+Activity is mapped to MITRE ATT&CK techniques to strengthen understanding of adversary behaviour and detection methodologies.
 
 ---
 
