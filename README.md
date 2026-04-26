@@ -21,6 +21,7 @@ Activity is mapped to MITRE ATT&CK techniques to strengthen understanding of adv
   *Microsoft Sentinel: A cloud-native SIEM and SOAR platform that collects, correlates, and analyzes security data across an organization to detect threats and automate incident response.*
   - [Sentinel- SOC and Honeypot in Azure](https://github.com/Muts256/Sentinel)
   - [Sentinel-Automation Rule](https://github.com/Muts256/Sentinel-Automation)
+  - [SSH-Detection Using ELK](https://github.com/Muts256/Detection-ELK)
   - [KQL Investigation](https://github.com/Muts256/Valdorian-Scandal/blob/main/Valdorian%20Times%20Investigation.pdf)
   - [Map Visualisation in Sentinel](https://github.com/Muts256/Visualisation-In-Sentinel)
   
