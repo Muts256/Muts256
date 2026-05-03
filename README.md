@@ -26,7 +26,7 @@ Activity is mapped to MITRE ATT&CK techniques to strengthen understanding of adv
   - [Map Visualisation in Sentinel](https://github.com/Muts256/Visualisation-In-Sentinel)
   
 - #### 2. AI in SOC.
-  *AI in the SOC: Practical projects exploring how AI can make security analysts faster, more consistent, and better equipped to respond to threats in the modern SOC environment.*
+  *AI in SOC: Practical projects exploring how AI can make security analysts faster, more consistent, and better equipped to respond to threats in the modern SOC environment.*
   - [Phishing Email Analysis](https://github.com/Muts256/Email_Analysis_AI)
 
 
