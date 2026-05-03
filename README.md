@@ -30,17 +30,16 @@ Activity is mapped to MITRE ATT&CK techniques to strengthen understanding of adv
   - [Phishing Email Analysis](https://github.com/Muts256/Email_Analysis_AI)
 
 
-- #### 3. Vulnerability Management.
-  *Vulnerability management: A continuous process of identifying, assessing, prioritising, and remediating security weaknesses to reduce an organisation’s attack surface.*
-  - [Program Implementation and Scanning](https://github.com/Muts256/Vulnerability-Management-Process)
-  - [Tenable Installation and Configuration](https://github.com/Muts256/Vulnerability-Management)
-  - [Security Technical Implementation Guides-STIGs](https://github.com/Muts256/STIGs)
-
-- #### 4. Incident Response.
+- #### 3. Incident Response.
   *Incident response: The structured approach to detecting, containing, eradicating, and recovering from security incidents while minimising operational and business impact, following the NIST 800-61 guidelines.*
   - [Incident Response Workflows](https://github.com/Muts256/Incident-Response)
   - [Alert Investigations](https://github.com/Muts256/Scenarios)
 
+- #### 4. Vulnerability Management.
+  *Vulnerability management: A continuous process of identifying, assessing, prioritising, and remediating security weaknesses to reduce an organisation’s attack surface.*
+  - [Program Implementation and Scanning](https://github.com/Muts256/Vulnerability-Management-Process)
+  - [Tenable Installation and Configuration](https://github.com/Muts256/Vulnerability-Management)
+  - [Security Technical Implementation Guides-STIGs](https://github.com/Muts256/STIGs)
 
 - #### 5. Threat Hunting.
   *Threat hunting: The proactive security practice that involves searching for hidden or unknown threats within an environment using hypotheses, telemetry, and adversary behavior analysis.*
