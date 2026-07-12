@@ -83,6 +83,7 @@ Activity is mapped to MITRE ATT&CK techniques to strengthen understanding of adv
   ![CISSP](https://img.shields.io/badge/CISSP-0052CC?logo=isc2&logoColor=white)
   ![CEH](https://img.shields.io/badge/CEH-000000?logo=hackthebox&logoColor=red)
   ![SC-200](https://img.shields.io/badge/SC--200-0078D4?logo=microsoft&logoColor=white)
+  ![CompTIA CySA+](https://img.shields.io/badge/CompTIA-CySA%2B-blue)
   ![AZ-900](https://img.shields.io/badge/AZ--900-0089D6?logo=microsoft-azure&logoColor=white)
   ![CTIAP](https://img.shields.io/badge/CTIAP-4B0082?logo=target&logoColor=white)
   ![Blue_Team_Junior_Analyst](https://img.shields.io/badge/Blue%20Team%20Junior%20Analyst-0A3D62?logo=security&logoColor=white)
