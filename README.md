@@ -51,7 +51,7 @@ Activity is mapped to MITRE ATT&CK techniques to strengthen understanding of adv
 
 ### Additional Projects
 - <b>AWS Cloud configurations using Terraform</b>
- - [Terraform Creating VPC](https://github.com/Muts256/Terraform/blob/main/01_Create_vpc.md)
+  - [Terraform Creating VPC](https://github.com/Muts256/Terraform/blob/main/01_Create_vpc.md)
 
 
 - <b>Digital Forensics Reports/Investigations</b>
