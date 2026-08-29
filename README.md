@@ -50,6 +50,9 @@ Activity is mapped to MITRE ATT&CK techniques to strengthen understanding of adv
 ---
 
 ### Additional Projects
+- <b>AWS Cloud configurations using Terraform</b>
+ - [Terraform Creating VPC](https://github.com/Muts256/Terraform/blob/main/01_Create_vpc.md)
+
 
 - <b>Digital Forensics Reports/Investigations</b>
   - [Investigation of a PCAP](https://github.com/Muts256/Security_Onion-Investigation)
@@ -65,6 +68,8 @@ Activity is mapped to MITRE ATT&CK techniques to strengthen understanding of adv
   - [Malware investigation](https://github.com/Muts256/Malware-Analysis)
 - <b>Phishing Email Analysis</b>
   - [Investigating Suspicious Emails](https://github.com/Muts256/Email-Analysis)
+
+
 
 ---
 
